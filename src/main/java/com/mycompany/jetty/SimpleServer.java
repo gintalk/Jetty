@@ -61,7 +61,6 @@ public class SimpleServer {
         servletCH.setAttribute("my.array", new int[]{1, 2, 3});
         servletCH.addServlet(ShowArrayServlet.class, "/showArray");
         servletCH.addServlet(ShowArrayReverseServlet.class, "/showArrayReverse");
-                
         server.setHandler(servletCH);
         
         return server;
