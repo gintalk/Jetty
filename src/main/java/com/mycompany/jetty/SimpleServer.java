@@ -55,18 +55,6 @@ public class SimpleServer {
         
         server.addConnector(connector);
         
-//        ContextHandler aHandler = new ContextHandler();
-//        aHandler.setContextPath("/A");
-//        aHandler.setHandler(new AHandler());
-//        
-//        ContextHandler bHandler = new ContextHandler();
-//        bHandler.setContextPath("/B");
-//        bHandler.setHandler(new BHandler());
-//        
-//        ContextHandlerCollection hc = new ContextHandlerCollection();
-//        hc.addHandler(aHandler);
-//        hc.addHandler(bHandler);
-        
         ServletContextHandler servletCH = new ServletContextHandler();
         servletCH.setContextPath("/");
         
