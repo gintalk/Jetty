@@ -1,5 +1,7 @@
-com\mycompany\jetty\IndexZeroServlet.class
-com\mycompany\jetty\AHandler.class
-com\mycompany\jetty\BHandler.class
-com\mycompany\jetty\IndexOneServlet.class
-com\mycompany\jetty\SimpleServer.class
+com/mycompany/jetty/AHandler.class
+com/mycompany/jetty/ShowArrayReverseServlet.class
+com/mycompany/jetty/SimpleServer.class
+com/mycompany/jetty/ShowArrayServlet.class
+com/mycompany/jetty/IndexOneServlet.class
+com/mycompany/jetty/IndexZeroServlet.class
+com/mycompany/jetty/BHandler.class

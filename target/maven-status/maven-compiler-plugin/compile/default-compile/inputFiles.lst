@@ -1,5 +1,7 @@
-F:\Games\Kes\NetBeansProjects\Jetty\src\main\java\com\mycompany\jetty\BHandler.java
-F:\Games\Kes\NetBeansProjects\Jetty\src\main\java\com\mycompany\jetty\IndexOneServlet.java
-F:\Games\Kes\NetBeansProjects\Jetty\src\main\java\com\mycompany\jetty\SimpleServer.java
-F:\Games\Kes\NetBeansProjects\Jetty\src\main\java\com\mycompany\jetty\IndexZeroServlet.java
-F:\Games\Kes\NetBeansProjects\Jetty\src\main\java\com\mycompany\jetty\AHandler.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/AHandler.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/ShowArrayServlet.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/SimpleServer.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/ShowArrayReverseServlet.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/IndexOneServlet.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/IndexZeroServlet.java
+/home/cpu11290-local/NetBeansProjects/Jetty/src/main/java/com/mycompany/jetty/BHandler.java
